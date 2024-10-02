@@ -44,7 +44,7 @@ body {
   font-size: 0.875rem;
   line-height: 1.25rem;
   color: rgb(75, 85, 99);
-  margin: 0.5rem 0 2rem;
+  margin: 1rem 0 2rem;
 }
 .App > :nth-child(2) a {
   text-decoration: none;
